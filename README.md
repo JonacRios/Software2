@@ -44,7 +44,10 @@ Este repositorio contiene el código fuente y los archivos necesarios para la im
 6. **Acceso al Servicio:**
    - Una vez que el servicio esté en funcionamiento acceda al servicio mediante la siguiente dirección: [http://localhost:8080/camunda/app/tasklist/default/#/login](http://localhost:8080/camunda/app/tasklist/default/#/login).
    
-7. **Inicio de Sesión:**
+7. **Ejecutar el Worker:**
+    - Ejecutamos el archivo en una terminal de coomandos, el cual se llama validation.js, el cual esta en la carpeta "Software2/src/Worker"  . Lo ejecutamos colocando en la terminal el siguiente comando, "node ./valitation.js" 
+   
+8. **Inicio de Sesión:**
    - Una vez alli se le abrira una ventana como la siguiente.
   
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/68316ffa-f16e-4bcc-9491-2f6b757bcc9e)
