@@ -2,6 +2,7 @@
 
 Este repositorio contiene el código fuente y los archivos necesarios para la implementación del servicio de instalación de energía del EMSA. El servicio está modelado con Camunda BPM y se implementa con Spring Boot.
 
+Este es el link del repositorio publico https://github.com/JonacRios/Software2
 ## Requisitos Previos
 
 
